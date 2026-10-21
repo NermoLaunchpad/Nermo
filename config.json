@@ -1,0 +1,21 @@
+{
+  "site": {
+    "name": "Nermo",
+    "url": "https://www.nermo.fun",
+    "description": "One Launchpad. Five Methods. Choose how your token launches on Pons V2, Robinhood Chain.",
+    "x": "",
+    "telegram": ""
+  },
+  "reown": {
+    "projectId": "e4d8c116db4115bd84d67840be3ea3d3"
+  },
+  "platformToken": {
+    "name": "Nermo",
+    "symbol": "NERMO",
+    "ca": "",
+    "buyUrl": "https://www.ponsfamily.com/launchpad/{ca}",
+    "logo": "/brand/nermo-icon.png",
+    "tagline": "The platform token of Nermo.",
+    "description": "$NERMO is the platform token of Nermo, the launchpad where every token chooses how it launches."
+  }
+}
