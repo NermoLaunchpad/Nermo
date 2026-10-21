@@ -12,7 +12,7 @@ export function Footer() {
           <Link href="/methods">Methods</Link>
           <a href={`${EXPLORER}/address/${PONS.factory}`} target="_blank" rel="noreferrer">Pons V2 factory</a>
           <a href="https://docs.ponsfamily.com/docs/v2" target="_blank" rel="noreferrer">Pons V2 docs</a>
-            {SITE.x && <a href={SITE.x} target="_blank" rel="noreferrer">X</a>}
+            {SITE.x && <a href={SITE.x} target="_blank" rel="noreferrer">X @NermoLaunchpad</a>}
         </div>
       </div>
     </footer>

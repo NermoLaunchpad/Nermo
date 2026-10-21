@@ -19,6 +19,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
+    site: "@NermoLaunchpad",
     title: "Nermo · One Launchpad. Five Methods.",
     description: SITE.description,
     images: ["/og.png"],

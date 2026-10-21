@@ -3,11 +3,11 @@
     "name": "Nermo",
     "url": "https://www.nermo.fun",
     "description": "One Launchpad. Five Methods. Choose how your token launches on Pons V2, Robinhood Chain.",
-    "x": "",
+    "x": "https://x.com/NermoLaunchpad",
     "telegram": ""
   },
   "reown": {
-    "projectId": "e4d8c116db4115bd84d67840be3ea3d3"
+    "projectId": "d55fd8ddbd81e9b400102b491e41a339"
   },
   "platformToken": {
     "name": "Nermo",
