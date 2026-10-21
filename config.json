@@ -12,7 +12,7 @@
   "platformToken": {
     "name": "Nermo",
     "symbol": "NERMO",
-    "ca": "0xe3b89448a77de534984e1b1cf5c2fb6319ca3d05",
+    "ca": "",
     "buyUrl": "https://www.ponsfamily.com/launchpad/{ca}",
     "logo": "/brand/nermo-icon.png",
     "tagline": "The platform token of Nermo.",
